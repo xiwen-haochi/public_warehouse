@@ -1,0 +1,6 @@
+fastapi==0.115.2
+pydantic==2.9.2
+SQLAlchemy==2.0.35
+uvicorn==0.31.1
+greenlet==3.1.1
+aiosqlite==0.17.0
